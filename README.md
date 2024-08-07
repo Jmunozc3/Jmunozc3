@@ -1,4 +1,4 @@
-<h6 align="left">Computer Engineering Student in my Fourth-year at Antonio de Nebrija University 💻📚.<br><br>I consider myself a very curious person 💡, passionate about the technological world. I am very organized 📖, with excellent communication skills 📢 for teamwork 🙋🏻‍♂️ and interacting with others.<br><br>I adapt very well to different situations and have a great ability for problem-solving ⚠️.<br><br>I would love to learn new things and start developing myself in the business and technological world 📡🏢.</h6>
+<h6 align="left">I consider myself a very curious person 💡, passionate about the technological world. I am very organized 📖, with excellent communication skills 📢 for teamwork 🙋🏻‍♂️ and interacting with others.<br><br>I adapt very well to different situations and have a great ability for problem-solving ⚠️.<br><br>I would love to learn new things and start developing myself in the business and technological world 📡🏢.</h6>
 
 ###
 
