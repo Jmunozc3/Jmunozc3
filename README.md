@@ -26,6 +26,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jmunozc3/Jmunozc3/output/snake.svg" alt="Snake animation" />
+
 
 ###
